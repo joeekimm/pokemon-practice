@@ -1,0 +1,9 @@
+#NODE_MODULES
+node_modules
+
+#Mac_OS
+.DS_Store
+
+bundle.js
+
+.env
